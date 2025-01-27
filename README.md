@@ -3,7 +3,9 @@
 A basic clone of the popular game Fruit Ninja
 
 <p align="center">
-  <img height="400" src="screenshots/fruit_ninja.gif">
+  <img height="400" src="screenshots/Screenshot_1.png">
+  <img height="400" src="screenshots/Screenshot_2.png">
+  <img height="400" src="screenshots/Screenshot_3.png">
 </p>
 
 ## Getting Started
