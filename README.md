@@ -1,6 +1,10 @@
 # flutter_fruit_ninja_clone
 
-A new Flutter project.
+A basic clone of the popular game Fruit Ninja
+
+<p align="center">
+  <img height="400" src="screenshots/fruit_ninja.gif">
+</p>
 
 ## Getting Started
 
